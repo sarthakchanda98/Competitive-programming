@@ -1,17 +1,20 @@
 #include <iostream>
 #include <vector>
+
 using namespace std;
+
 class Solution {
 public:
     int duplicateNumbersXOR(vector<int>& nums)
     {
         vector<int> duplicates;
-        int num;
         int res;
         bool flag = false;
-        for(int i = 0;i<nums.size()-1;i++)
+        
+        // Loop through vector to find duplicates
+        for(size_t i = 0; i < nums.size(); i++)
         {
-            for(int j = i+1; j<nums.size();j++)
+            for(size_t j = i + 1; j < nums.size(); j++)
             {
                 if(nums.at(j) == nums.at(i))
                 {
@@ -20,38 +23,40 @@ public:
                 }
             }
         }
-        if(!flag)
+        
+        if(!flag) return 0;
+
+        res = duplicates[0];
+        for(size_t i = 1; i < duplicates.size(); i++)
         {
-            return 0;
+            res ^= duplicates.at(i);
         }
-        else
-        {
-            if(duplicates.size() == 1)
-            {
-                return duplicates[0];
-            }
-            res = duplicates[0];
-            for(int i = 1; i<duplicates.size(); i++ )
-            {
-                res = res^duplicates.at(i);
-            }
-            return res;
-        }
+        return res;
     }
 };
 
-int main()
-{
-    int n;
-    if (!(cin >> n))
-        return 0;
+int main() {
+    Solution solver;
+    vector<int> nums;
+    int temp;
 
-    vector<int> nums(n);
-    for (int i = 0; i < n; i++)
-        cin >> nums[i];
+    cout << "=== Duplicate Numbers XOR Calculator ===" << endl;
+    cout << "Enter integers separated by spaces or newlines." << endl;
+    cout << "Enter any character (like 'q') to stop and calculate." << endl;
+    cout << "--------------------------------------------------" << endl;
 
-    Solution sol;
-    cout << sol.duplicateNumbersXOR(nums) << "\n";
+    // cin >> temp returns false if input is not an integer
+    while (cin >> temp) {
+        nums.push_back(temp);
+    }
+
+    if (nums.empty()) {
+        cout << "No valid numbers entered." << endl;
+    } else {
+        cout << "\nCalculating..." << endl;
+        int result = solver.duplicateNumbersXOR(nums);
+        cout << "The XOR of duplicate numbers is: " << result << endl;
+    }
 
     return 0;
 }
