@@ -6,6 +6,7 @@ Program solutions of Leetcode
 ## Array
 |  |
 | ------- |
+| [0075-sort-colors](https://github.com/sarthakchanda98/Competitive-programming/tree/master/0075-sort-colors) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/sarthakchanda98/Competitive-programming/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 ## String
 |  |
@@ -20,4 +21,12 @@ Program solutions of Leetcode
 |  |
 | ------- |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/sarthakchanda98/Competitive-programming/tree/master/1358-number-of-substrings-containing-all-three-characters) |
+## Two Pointers
+|  |
+| ------- |
+| [0075-sort-colors](https://github.com/sarthakchanda98/Competitive-programming/tree/master/0075-sort-colors) |
+## Sorting
+|  |
+| ------- |
+| [0075-sort-colors](https://github.com/sarthakchanda98/Competitive-programming/tree/master/0075-sort-colors) |
 <!---LeetCode Topics End-->
