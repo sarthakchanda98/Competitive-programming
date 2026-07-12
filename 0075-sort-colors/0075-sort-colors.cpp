@@ -1,55 +1,33 @@
 class Solution {
 public:
-    void sortColors(vector<int>& nums) 
+    void sortColors(vector<int>& A) 
     {
-        int red = 0;
-        int white = 0;
-        int blue = 0;
-        int countr = 0;
-        int countw;
-        int countb;
+        //dutch national flag algo
+        int low = 0;
+        int mid = 0;
+        int high = A.size()-1;
         int temp;
-        for(int i = 0;i<nums.size();i++)
+        while(mid<=high)
         {
-            if(nums[i]==0)
-            red++;
-            if(nums[i]==1)
-            white++;
-            if(nums[i]==2)
-            blue++;
-        }
-        countw = red;
-        countb = white+red;
-        //place 0s
-        for(int i = 0;i<nums.size();i++)
-        {
-            if(countr == red)
+            if(A[mid]==0)
             {
-                break;
+                temp = A[mid];
+                A[mid] = A[low];
+                A[low] = temp;
+                low++;
+                mid++;
             }
-            if(nums[i] == 0)
+            else if(A[mid] == 1)
             {
-                temp = nums[countr];
-                nums[countr] = nums[i];
-                nums[i] = temp;
-                countr++;
+                mid++;
+            }
+            else if(A[mid]==2)
+            {
+                temp = A[mid];
+                A[mid] = A[high];
+                A[high] = temp;
+                high--;
             }
         }
-        // place 1s
-        for(int i = red;i<nums.size();i++)
-        {
-            if(countw == (red+white))
-            {
-                break;
-            }
-            if(nums[i] == 1)
-            {
-                temp = nums[countw];
-                nums[countw] = nums[i];
-                nums[i] = temp;
-                countw++;
-            }
-        }
-        //2s should be automatically placed
     }
 };
