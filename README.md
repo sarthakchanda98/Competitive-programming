@@ -8,6 +8,7 @@ Program solutions of Leetcode
 | ------- |
 | [0075-sort-colors](https://github.com/sarthakchanda98/Competitive-programming/tree/master/0075-sort-colors) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/sarthakchanda98/Competitive-programming/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
+| [2029-stone-game-ix](https://github.com/sarthakchanda98/Competitive-programming/tree/master/2029-stone-game-ix) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/sarthakchanda98/Competitive-programming/tree/master/2812-find-the-safest-path-in-a-grid) |
 ## String
 |  |
@@ -53,5 +54,30 @@ Program solutions of Leetcode
 ## Math
 |  |
 | ------- |
+| [2029-stone-game-ix](https://github.com/sarthakchanda98/Competitive-programming/tree/master/2029-stone-game-ix) |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/sarthakchanda98/Competitive-programming/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
+## Greedy
+|  |
+| ------- |
+| [2029-stone-game-ix](https://github.com/sarthakchanda98/Competitive-programming/tree/master/2029-stone-game-ix) |
+## Minimax
+|  |
+| ------- |
+| [2029-stone-game-ix](https://github.com/sarthakchanda98/Competitive-programming/tree/master/2029-stone-game-ix) |
+## Counting
+|  |
+| ------- |
+| [2029-stone-game-ix](https://github.com/sarthakchanda98/Competitive-programming/tree/master/2029-stone-game-ix) |
+## Game Theory
+|  |
+| ------- |
+| [2029-stone-game-ix](https://github.com/sarthakchanda98/Competitive-programming/tree/master/2029-stone-game-ix) |
+## Nim Game
+|  |
+| ------- |
+| [2029-stone-game-ix](https://github.com/sarthakchanda98/Competitive-programming/tree/master/2029-stone-game-ix) |
+## Zero-Sum Game
+|  |
+| ------- |
+| [2029-stone-game-ix](https://github.com/sarthakchanda98/Competitive-programming/tree/master/2029-stone-game-ix) |
 <!---LeetCode Topics End-->
