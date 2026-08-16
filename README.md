@@ -7,6 +7,7 @@ Program solutions of Leetcode
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/sarthakchanda98/Competitive-programming/tree/master/0075-sort-colors) |
+| [0088-merge-sorted-array](https://github.com/sarthakchanda98/Competitive-programming/tree/master/0088-merge-sorted-array) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/sarthakchanda98/Competitive-programming/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [2029-stone-game-ix](https://github.com/sarthakchanda98/Competitive-programming/tree/master/2029-stone-game-ix) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/sarthakchanda98/Competitive-programming/tree/master/2812-find-the-safest-path-in-a-grid) |
@@ -27,10 +28,12 @@ Program solutions of Leetcode
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/sarthakchanda98/Competitive-programming/tree/master/0075-sort-colors) |
+| [0088-merge-sorted-array](https://github.com/sarthakchanda98/Competitive-programming/tree/master/0088-merge-sorted-array) |
 ## Sorting
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/sarthakchanda98/Competitive-programming/tree/master/0075-sort-colors) |
+| [0088-merge-sorted-array](https://github.com/sarthakchanda98/Competitive-programming/tree/master/0088-merge-sorted-array) |
 ## Binary Search
 |  |
 | ------- |
