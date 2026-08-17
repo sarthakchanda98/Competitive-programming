@@ -8,6 +8,7 @@ Program solutions of Leetcode
 | ------- |
 | [0075-sort-colors](https://github.com/sarthakchanda98/Competitive-programming/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/sarthakchanda98/Competitive-programming/tree/master/0088-merge-sorted-array) |
+| [1563-stone-game-v](https://github.com/sarthakchanda98/Competitive-programming/tree/master/1563-stone-game-v) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/sarthakchanda98/Competitive-programming/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [2029-stone-game-ix](https://github.com/sarthakchanda98/Competitive-programming/tree/master/2029-stone-game-ix) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/sarthakchanda98/Competitive-programming/tree/master/2812-find-the-safest-path-in-a-grid) |
@@ -57,6 +58,7 @@ Program solutions of Leetcode
 ## Math
 |  |
 | ------- |
+| [1563-stone-game-v](https://github.com/sarthakchanda98/Competitive-programming/tree/master/1563-stone-game-v) |
 | [2029-stone-game-ix](https://github.com/sarthakchanda98/Competitive-programming/tree/master/2029-stone-game-ix) |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/sarthakchanda98/Competitive-programming/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
 ## Greedy
@@ -74,6 +76,7 @@ Program solutions of Leetcode
 ## Game Theory
 |  |
 | ------- |
+| [1563-stone-game-v](https://github.com/sarthakchanda98/Competitive-programming/tree/master/1563-stone-game-v) |
 | [2029-stone-game-ix](https://github.com/sarthakchanda98/Competitive-programming/tree/master/2029-stone-game-ix) |
 ## Nim Game
 |  |
@@ -91,4 +94,8 @@ Program solutions of Leetcode
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/sarthakchanda98/Competitive-programming/tree/master/0075-sort-colors) |
+## Dynamic Programming
+|  |
+| ------- |
+| [1563-stone-game-v](https://github.com/sarthakchanda98/Competitive-programming/tree/master/1563-stone-game-v) |
 <!---LeetCode Topics End-->
