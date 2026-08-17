@@ -6,6 +6,7 @@ Program solutions of Leetcode
 ## Array
 |  |
 | ------- |
+| [0031-next-permutation](https://github.com/sarthakchanda98/Competitive-programming/tree/master/0031-next-permutation) |
 | [0075-sort-colors](https://github.com/sarthakchanda98/Competitive-programming/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/sarthakchanda98/Competitive-programming/tree/master/0088-merge-sorted-array) |
 | [1563-stone-game-v](https://github.com/sarthakchanda98/Competitive-programming/tree/master/1563-stone-game-v) |
@@ -28,6 +29,7 @@ Program solutions of Leetcode
 ## Two Pointers
 |  |
 | ------- |
+| [0031-next-permutation](https://github.com/sarthakchanda98/Competitive-programming/tree/master/0031-next-permutation) |
 | [0075-sort-colors](https://github.com/sarthakchanda98/Competitive-programming/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/sarthakchanda98/Competitive-programming/tree/master/0088-merge-sorted-array) |
 ## Sorting
