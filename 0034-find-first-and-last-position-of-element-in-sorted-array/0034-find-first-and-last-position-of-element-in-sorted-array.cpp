@@ -6,7 +6,6 @@ public:
         int start = 0;
         int end = nums.size() - 1;
 
-        // First occurrence
         while (start <= end) {
             int mid = start + (end - start) / 2;
 
@@ -21,14 +20,11 @@ public:
                 end = mid - 1;
             }
         }
-
         if (ans[0] == -1)
             return ans;
 
-        // Assume target occurs only once
         ans[1] = ans[0];
 
-        // Search for another occurrence to the right
         start = ans[0] + 1;
         end = nums.size() - 1;
 
