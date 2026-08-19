@@ -10,6 +10,7 @@ Program solutions of Leetcode
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/sarthakchanda98/Competitive-programming/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0075-sort-colors](https://github.com/sarthakchanda98/Competitive-programming/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/sarthakchanda98/Competitive-programming/tree/master/0088-merge-sorted-array) |
+| [1386-cinema-seat-allocation](https://github.com/sarthakchanda98/Competitive-programming/tree/master/1386-cinema-seat-allocation) |
 | [1563-stone-game-v](https://github.com/sarthakchanda98/Competitive-programming/tree/master/1563-stone-game-v) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/sarthakchanda98/Competitive-programming/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [2029-stone-game-ix](https://github.com/sarthakchanda98/Competitive-programming/tree/master/2029-stone-game-ix) |
@@ -24,6 +25,7 @@ Program solutions of Leetcode
 |  |
 | ------- |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/sarthakchanda98/Competitive-programming/tree/master/1358-number-of-substrings-containing-all-three-characters) |
+| [1386-cinema-seat-allocation](https://github.com/sarthakchanda98/Competitive-programming/tree/master/1386-cinema-seat-allocation) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/sarthakchanda98/Competitive-programming/tree/master/3471-find-the-largest-almost-missing-integer) |
 ## Sliding Window
 |  |
@@ -70,6 +72,7 @@ Program solutions of Leetcode
 ## Greedy
 |  |
 | ------- |
+| [1386-cinema-seat-allocation](https://github.com/sarthakchanda98/Competitive-programming/tree/master/1386-cinema-seat-allocation) |
 | [2029-stone-game-ix](https://github.com/sarthakchanda98/Competitive-programming/tree/master/2029-stone-game-ix) |
 ## Minimax
 |  |
@@ -104,4 +107,8 @@ Program solutions of Leetcode
 |  |
 | ------- |
 | [1563-stone-game-v](https://github.com/sarthakchanda98/Competitive-programming/tree/master/1563-stone-game-v) |
+## Bit Manipulation
+|  |
+| ------- |
+| [1386-cinema-seat-allocation](https://github.com/sarthakchanda98/Competitive-programming/tree/master/1386-cinema-seat-allocation) |
 <!---LeetCode Topics End-->
