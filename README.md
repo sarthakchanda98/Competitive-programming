@@ -15,6 +15,7 @@ Program solutions of Leetcode
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/sarthakchanda98/Competitive-programming/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [2029-stone-game-ix](https://github.com/sarthakchanda98/Competitive-programming/tree/master/2029-stone-game-ix) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/sarthakchanda98/Competitive-programming/tree/master/2812-find-the-safest-path-in-a-grid) |
+| [3069-distribute-elements-into-two-arrays-i](https://github.com/sarthakchanda98/Competitive-programming/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/sarthakchanda98/Competitive-programming/tree/master/3471-find-the-largest-almost-missing-integer) |
 ## String
 |  |
@@ -111,4 +112,8 @@ Program solutions of Leetcode
 |  |
 | ------- |
 | [1386-cinema-seat-allocation](https://github.com/sarthakchanda98/Competitive-programming/tree/master/1386-cinema-seat-allocation) |
+## Simulation
+|  |
+| ------- |
+| [3069-distribute-elements-into-two-arrays-i](https://github.com/sarthakchanda98/Competitive-programming/tree/master/3069-distribute-elements-into-two-arrays-i) |
 <!---LeetCode Topics End-->
