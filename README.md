@@ -12,6 +12,7 @@ Program solutions of Leetcode
 | [0088-merge-sorted-array](https://github.com/sarthakchanda98/Competitive-programming/tree/master/0088-merge-sorted-array) |
 | [1386-cinema-seat-allocation](https://github.com/sarthakchanda98/Competitive-programming/tree/master/1386-cinema-seat-allocation) |
 | [1563-stone-game-v](https://github.com/sarthakchanda98/Competitive-programming/tree/master/1563-stone-game-v) |
+| [1872-stone-game-viii](https://github.com/sarthakchanda98/Competitive-programming/tree/master/1872-stone-game-viii) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/sarthakchanda98/Competitive-programming/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [2029-stone-game-ix](https://github.com/sarthakchanda98/Competitive-programming/tree/master/2029-stone-game-ix) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/sarthakchanda98/Competitive-programming/tree/master/2812-find-the-safest-path-in-a-grid) |
@@ -71,6 +72,7 @@ Program solutions of Leetcode
 |  |
 | ------- |
 | [1563-stone-game-v](https://github.com/sarthakchanda98/Competitive-programming/tree/master/1563-stone-game-v) |
+| [1872-stone-game-viii](https://github.com/sarthakchanda98/Competitive-programming/tree/master/1872-stone-game-viii) |
 | [1927-sum-game](https://github.com/sarthakchanda98/Competitive-programming/tree/master/1927-sum-game) |
 | [2029-stone-game-ix](https://github.com/sarthakchanda98/Competitive-programming/tree/master/2029-stone-game-ix) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/sarthakchanda98/Competitive-programming/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
@@ -85,6 +87,7 @@ Program solutions of Leetcode
 ## Minimax
 |  |
 | ------- |
+| [1872-stone-game-viii](https://github.com/sarthakchanda98/Competitive-programming/tree/master/1872-stone-game-viii) |
 | [2029-stone-game-ix](https://github.com/sarthakchanda98/Competitive-programming/tree/master/2029-stone-game-ix) |
 ## Counting
 |  |
@@ -94,6 +97,7 @@ Program solutions of Leetcode
 |  |
 | ------- |
 | [1563-stone-game-v](https://github.com/sarthakchanda98/Competitive-programming/tree/master/1563-stone-game-v) |
+| [1872-stone-game-viii](https://github.com/sarthakchanda98/Competitive-programming/tree/master/1872-stone-game-viii) |
 | [1927-sum-game](https://github.com/sarthakchanda98/Competitive-programming/tree/master/1927-sum-game) |
 | [2029-stone-game-ix](https://github.com/sarthakchanda98/Competitive-programming/tree/master/2029-stone-game-ix) |
 ## Nim Game
@@ -103,6 +107,7 @@ Program solutions of Leetcode
 ## Zero-Sum Game
 |  |
 | ------- |
+| [1872-stone-game-viii](https://github.com/sarthakchanda98/Competitive-programming/tree/master/1872-stone-game-viii) |
 | [2029-stone-game-ix](https://github.com/sarthakchanda98/Competitive-programming/tree/master/2029-stone-game-ix) |
 ## Quicksort
 |  |
@@ -116,6 +121,7 @@ Program solutions of Leetcode
 |  |
 | ------- |
 | [1563-stone-game-v](https://github.com/sarthakchanda98/Competitive-programming/tree/master/1563-stone-game-v) |
+| [1872-stone-game-viii](https://github.com/sarthakchanda98/Competitive-programming/tree/master/1872-stone-game-viii) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -133,4 +139,8 @@ Program solutions of Leetcode
 |  |
 | ------- |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/sarthakchanda98/Competitive-programming/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
+## Prefix Sum
+|  |
+| ------- |
+| [1872-stone-game-viii](https://github.com/sarthakchanda98/Competitive-programming/tree/master/1872-stone-game-viii) |
 <!---LeetCode Topics End-->
