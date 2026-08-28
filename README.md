@@ -28,6 +28,7 @@ Program solutions of Leetcode
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/sarthakchanda98/Competitive-programming/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/sarthakchanda98/Competitive-programming/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/sarthakchanda98/Competitive-programming/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
+| [3734-lexicographically-smallest-palindromic-permutation-greater-than-target](https://github.com/sarthakchanda98/Competitive-programming/tree/master/3734-lexicographically-smallest-palindromic-permutation-greater-than-target) |
 ## Hash Table
 |  |
 | ------- |
@@ -47,6 +48,7 @@ Program solutions of Leetcode
 | [0031-next-permutation](https://github.com/sarthakchanda98/Competitive-programming/tree/master/0031-next-permutation) |
 | [0075-sort-colors](https://github.com/sarthakchanda98/Competitive-programming/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/sarthakchanda98/Competitive-programming/tree/master/0088-merge-sorted-array) |
+| [3734-lexicographically-smallest-palindromic-permutation-greater-than-target](https://github.com/sarthakchanda98/Competitive-programming/tree/master/3734-lexicographically-smallest-palindromic-permutation-greater-than-target) |
 ## Sorting
 |  |
 | ------- |
@@ -155,4 +157,5 @@ Program solutions of Leetcode
 |  |
 | ------- |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/sarthakchanda98/Competitive-programming/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
+| [3734-lexicographically-smallest-palindromic-permutation-greater-than-target](https://github.com/sarthakchanda98/Competitive-programming/tree/master/3734-lexicographically-smallest-palindromic-permutation-greater-than-target) |
 <!---LeetCode Topics End-->
