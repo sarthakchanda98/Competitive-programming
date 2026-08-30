@@ -15,6 +15,7 @@ Program solutions of Leetcode
 | [1872-stone-game-viii](https://github.com/sarthakchanda98/Competitive-programming/tree/master/1872-stone-game-viii) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/sarthakchanda98/Competitive-programming/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [2029-stone-game-ix](https://github.com/sarthakchanda98/Competitive-programming/tree/master/2029-stone-game-ix) |
+| [2091-removing-minimum-and-maximum-from-array](https://github.com/sarthakchanda98/Competitive-programming/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/sarthakchanda98/Competitive-programming/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/sarthakchanda98/Competitive-programming/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/sarthakchanda98/Competitive-programming/tree/master/3069-distribute-elements-into-two-arrays-i) |
@@ -95,6 +96,7 @@ Program solutions of Leetcode
 | [1386-cinema-seat-allocation](https://github.com/sarthakchanda98/Competitive-programming/tree/master/1386-cinema-seat-allocation) |
 | [1927-sum-game](https://github.com/sarthakchanda98/Competitive-programming/tree/master/1927-sum-game) |
 | [2029-stone-game-ix](https://github.com/sarthakchanda98/Competitive-programming/tree/master/2029-stone-game-ix) |
+| [2091-removing-minimum-and-maximum-from-array](https://github.com/sarthakchanda98/Competitive-programming/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/sarthakchanda98/Competitive-programming/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
 ## Minimax
 |  |
