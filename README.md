@@ -86,6 +86,7 @@ Program solutions of Leetcode
 ## Math
 |  |
 | ------- |
+| [0836-rectangle-overlap](https://github.com/sarthakchanda98/Competitive-programming/tree/master/0836-rectangle-overlap) |
 | [1563-stone-game-v](https://github.com/sarthakchanda98/Competitive-programming/tree/master/1563-stone-game-v) |
 | [1872-stone-game-viii](https://github.com/sarthakchanda98/Competitive-programming/tree/master/1872-stone-game-viii) |
 | [1927-sum-game](https://github.com/sarthakchanda98/Competitive-programming/tree/master/1927-sum-game) |
@@ -173,4 +174,8 @@ Program solutions of Leetcode
 |  |
 | ------- |
 | [2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points](https://github.com/sarthakchanda98/Competitive-programming/tree/master/2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points) |
+## Geometry
+|  |
+| ------- |
+| [0836-rectangle-overlap](https://github.com/sarthakchanda98/Competitive-programming/tree/master/0836-rectangle-overlap) |
 <!---LeetCode Topics End-->
