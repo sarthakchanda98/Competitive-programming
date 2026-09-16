@@ -53,12 +53,14 @@ Program solutions of Leetcode
 | [0031-next-permutation](https://github.com/sarthakchanda98/Competitive-programming/tree/master/0031-next-permutation) |
 | [0075-sort-colors](https://github.com/sarthakchanda98/Competitive-programming/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/sarthakchanda98/Competitive-programming/tree/master/0088-merge-sorted-array) |
+| [0148-sort-list](https://github.com/sarthakchanda98/Competitive-programming/tree/master/0148-sort-list) |
 | [3734-lexicographically-smallest-palindromic-permutation-greater-than-target](https://github.com/sarthakchanda98/Competitive-programming/tree/master/3734-lexicographically-smallest-palindromic-permutation-greater-than-target) |
 ## Sorting
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/sarthakchanda98/Competitive-programming/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/sarthakchanda98/Competitive-programming/tree/master/0088-merge-sorted-array) |
+| [0148-sort-list](https://github.com/sarthakchanda98/Competitive-programming/tree/master/0148-sort-list) |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/sarthakchanda98/Competitive-programming/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
 ## Binary Search
 |  |
@@ -173,9 +175,18 @@ Program solutions of Leetcode
 ## Linked List
 |  |
 | ------- |
+| [0148-sort-list](https://github.com/sarthakchanda98/Competitive-programming/tree/master/0148-sort-list) |
 | [2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points](https://github.com/sarthakchanda98/Competitive-programming/tree/master/2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points) |
 ## Geometry
 |  |
 | ------- |
 | [0836-rectangle-overlap](https://github.com/sarthakchanda98/Competitive-programming/tree/master/0836-rectangle-overlap) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0148-sort-list](https://github.com/sarthakchanda98/Competitive-programming/tree/master/0148-sort-list) |
+## Merge Sort
+|  |
+| ------- |
+| [0148-sort-list](https://github.com/sarthakchanda98/Competitive-programming/tree/master/0148-sort-list) |
 <!---LeetCode Topics End-->
