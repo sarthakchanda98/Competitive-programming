@@ -37,6 +37,7 @@ Program solutions of Leetcode
 ## Hash Table
 |  |
 | ------- |
+| [0138-copy-list-with-random-pointer](https://github.com/sarthakchanda98/Competitive-programming/tree/master/0138-copy-list-with-random-pointer) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/sarthakchanda98/Competitive-programming/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1386-cinema-seat-allocation](https://github.com/sarthakchanda98/Competitive-programming/tree/master/1386-cinema-seat-allocation) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/sarthakchanda98/Competitive-programming/tree/master/3471-find-the-largest-almost-missing-integer) |
@@ -175,6 +176,7 @@ Program solutions of Leetcode
 ## Linked List
 |  |
 | ------- |
+| [0138-copy-list-with-random-pointer](https://github.com/sarthakchanda98/Competitive-programming/tree/master/0138-copy-list-with-random-pointer) |
 | [0148-sort-list](https://github.com/sarthakchanda98/Competitive-programming/tree/master/0148-sort-list) |
 | [2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points](https://github.com/sarthakchanda98/Competitive-programming/tree/master/2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points) |
 ## Geometry
