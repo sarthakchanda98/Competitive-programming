@@ -25,7 +25,7 @@ class Solution {
             Node newnode = new Node(curr.val);
             newnode.next = curr.next;
             curr.next = newnode;
-            curr = newnode.next;
+            curr = curr.next.next;
         }
         curr = head;
         while(curr!=null)
