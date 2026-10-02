@@ -28,6 +28,7 @@ Program solutions of Leetcode
 ## String
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/sarthakchanda98/Competitive-programming/tree/master/0022-generate-parentheses) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/sarthakchanda98/Competitive-programming/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1927-sum-game](https://github.com/sarthakchanda98/Competitive-programming/tree/master/1927-sum-game) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/sarthakchanda98/Competitive-programming/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
@@ -144,6 +145,7 @@ Program solutions of Leetcode
 ## Dynamic Programming
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/sarthakchanda98/Competitive-programming/tree/master/0022-generate-parentheses) |
 | [1563-stone-game-v](https://github.com/sarthakchanda98/Competitive-programming/tree/master/1563-stone-game-v) |
 | [1872-stone-game-viii](https://github.com/sarthakchanda98/Competitive-programming/tree/master/1872-stone-game-viii) |
 ## Bit Manipulation
@@ -191,4 +193,12 @@ Program solutions of Leetcode
 |  |
 | ------- |
 | [0148-sort-list](https://github.com/sarthakchanda98/Competitive-programming/tree/master/0148-sort-list) |
+## Backtracking
+|  |
+| ------- |
+| [0022-generate-parentheses](https://github.com/sarthakchanda98/Competitive-programming/tree/master/0022-generate-parentheses) |
+## Bracket Sequences
+|  |
+| ------- |
+| [0022-generate-parentheses](https://github.com/sarthakchanda98/Competitive-programming/tree/master/0022-generate-parentheses) |
 <!---LeetCode Topics End-->
