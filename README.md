@@ -35,6 +35,7 @@ Program solutions of Leetcode
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/sarthakchanda98/Competitive-programming/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/sarthakchanda98/Competitive-programming/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
 | [3734-lexicographically-smallest-palindromic-permutation-greater-than-target](https://github.com/sarthakchanda98/Competitive-programming/tree/master/3734-lexicographically-smallest-palindromic-permutation-greater-than-target) |
+| [3863-minimum-operations-to-sort-a-string](https://github.com/sarthakchanda98/Competitive-programming/tree/master/3863-minimum-operations-to-sort-a-string) |
 ## Hash Table
 |  |
 | ------- |
